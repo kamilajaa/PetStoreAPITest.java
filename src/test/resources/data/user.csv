@@ -1,0 +1,5 @@
+id,username,firstName,lastName,email,senha,telefone,status
+101,joaosilva,Joao,Silva,joao@email.com,Abc12345,11988887777,1
+102,mariarosa,Maria,Rosa,maria@test.com,Senha123,11977776666,0
+103,carlosQA,Carlos,Teste,carlos@api.com,Cert@2026,11955554444,2
+104,ana_istqb,Ana,Quality,ana@qa.com,Tester@99,11911112222,1

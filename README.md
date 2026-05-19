@@ -1,5 +1,8 @@
 # PetStore API - Testes de Automação 🐱
 
+
+![API Tests](https://github.com/kamilajaa/PetStoreAPITest.java/actions/workflows/api-tests.yml/badge.svg)
+
 > Projeto de automação de testes de API usando Java + Maven + REST-assured + JUnit 5
 
 ## O que esse projeto faz?
